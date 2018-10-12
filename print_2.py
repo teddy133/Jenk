@@ -1,1 +1,1 @@
-print('Thanos is the second print')
+print('Cap is the second print')
